@@ -6,13 +6,13 @@ Homebrew maintainers [reject adding](https://github.com/Homebrew/homebrew/pull/1
 ## Install
 
 ```
-brew install dragonlayout/sshpass/sshpass
+brew install pazznetwork/sshpass/sshpass
 ```
 
-Or `brew tap dragonlayout/sshpass` and then `brew install sshpass`.
+Or `brew tap pazznetwork/sshpass` and then `brew install sshpass`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/dragonlayout/homebrew-sshpass/master/sshpass.rb
+brew install https://raw.githubusercontent.com/pazznetwork/homebrew-sshpass/master/sshpass.rb
 ```
